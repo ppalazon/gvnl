@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/ppalazon/workspace/lab",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Pablo Palazon",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "pablo.palazon@gmail.com",
+  "friendly_name": "Grammar-Vocabulary Notebook Log",
+  "github_user": "ppalazon",
+  "license": "MIT",
+  "package_name": "gvnl",
+  "project_name": "gvnl",
+  "version": "0.1.0"
+}
